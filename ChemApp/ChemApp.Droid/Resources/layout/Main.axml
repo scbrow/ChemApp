@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:backgroundTint="#ff7fffd4"
+    android:foregroundTint="#ff00ffff"
+    android:backgroundTintMode="screen"
+    android:foregroundTintMode="screen">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1" />
+    <Button
+        android:id="@+id/myButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Solve"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginRight="0.0dp" />
+</LinearLayout>
