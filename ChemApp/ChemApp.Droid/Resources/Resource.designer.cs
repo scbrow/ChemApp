@@ -85,6 +85,54 @@ namespace ChemApp.Droid
 			// aapt resource value: 0x7f070001
 			public const int myButton = 2131165185;
 			
+			// aapt resource value: 0x7f070002
+			public const int textView1 = 2131165186;
+			
+			// aapt resource value: 0x7f07000c
+			public const int textView10 = 2131165196;
+			
+			// aapt resource value: 0x7f07000d
+			public const int textView11 = 2131165197;
+			
+			// aapt resource value: 0x7f07000e
+			public const int textView12 = 2131165198;
+			
+			// aapt resource value: 0x7f07000f
+			public const int textView13 = 2131165199;
+			
+			// aapt resource value: 0x7f070010
+			public const int textView14 = 2131165200;
+			
+			// aapt resource value: 0x7f070011
+			public const int textView16 = 2131165201;
+			
+			// aapt resource value: 0x7f070006
+			public const int textView18 = 2131165190;
+			
+			// aapt resource value: 0x7f070003
+			public const int textView2 = 2131165187;
+			
+			// aapt resource value: 0x7f070004
+			public const int textView3 = 2131165188;
+			
+			// aapt resource value: 0x7f070005
+			public const int textView4 = 2131165189;
+			
+			// aapt resource value: 0x7f070007
+			public const int textView5 = 2131165191;
+			
+			// aapt resource value: 0x7f070008
+			public const int textView6 = 2131165192;
+			
+			// aapt resource value: 0x7f070009
+			public const int textView7 = 2131165193;
+			
+			// aapt resource value: 0x7f07000a
+			public const int textView8 = 2131165194;
+			
+			// aapt resource value: 0x7f07000b
+			public const int textView9 = 2131165195;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
